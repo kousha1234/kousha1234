@@ -13,4 +13,4 @@ Current focus: systematic reviews/meta-analysis (incl. RoB 2), R-based analysis,
 
 
 **### Contact
-[Email](mailto:you@example.com) · [LinkedIn](https://linkedin.com/in/your-handle)** ·  [Portfolio](https://kousha1234.github.io/Research-portfolio/)
+[Email](koushasarpari@gmail.com) · [LinkedIn](https://linkedin.com/in/koushasarpari)** ·  [Portfolio](https://kousha1234.github.io/Research-portfolio/)
