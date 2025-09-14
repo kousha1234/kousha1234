@@ -7,7 +7,7 @@ Current focus: systematic reviews/meta-analysis (incl. RoB 2), R-based analysis,
 - **Skills:** R (tidyverse), meta-analysis, study bias assessment (RoB 2), Quarto reporting.
 
 ### What I publish here
-- Reproducible R analysis templates using **synthetic** (privacy-safe) data
+- Reproducible R analysis templates using synthetic and privacy-safe data
 - Checklists and notebooks for systematic reviews
 - Small, documented examples that others can run end-to-end
 
