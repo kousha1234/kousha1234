@@ -1,4 +1,4 @@
-<h1 align="center">Kousha — Dentist · Epidemiologist</h1>
+[<h1 align="center">Kousha — Dentist · Epidemiologist</h1>
 
 **Dentistry × Epidemiology × Evidence Synthesis · Quarto & R**  
 **Open to:** RWE/HEOR Analyst or Clinical Evidence roles (Germany/remote) — **Start:** May 2026
@@ -22,3 +22,4 @@
 [Email](mailto:koushasarpari@gmail.com) · [LinkedIn](https://linkedin.com/in/koushasarpari) · [GitHub](https://github.com/kousha1234) · [Portfolio](https://kousha1234.github.io/Research-portfolio/)
 
 <sub>Last updated: 2025-09-15</sub>
+](https://kousha1234.github.io/Research-portfolio/DEFEAT-BMI-categorised/index.html)
