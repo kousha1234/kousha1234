@@ -11,10 +11,13 @@
   **Read:** https://kousha1234.github.io/Research-portfolio/meta_analysis.html · **Code:** https://github.com/kousha1234/r-meta-template
 
 - **DEFEAT — PCS vs BMI (WHO categories)** — Fisher’s exact + logistic models  
-  **Read:** https://kousha1234.github.io/Research-portfolio/DEFEAT-BMI-categorised/index.html
+  **Read:** https://kousha1234.github.io/Research-portfolio/DEFEAT-BMI-categorised/index.html · **Code:** https://github.com/kousha1234/DEFEAT-BMI-HRQoL
 
 - **DEFEAT — BMI (continuous) vs PROMs** — correlations + visuals  
-  **Read:** https://kousha1234.github.io/Research-portfolio/DEFEAT-BMI-continuous/index.html
+  **Read:** https://kousha1234.github.io/Research-portfolio/DEFEAT-BMI-continuous/index.html · **Code:** https://github.com/kousha1234/DEFEAT-BMI-HRQoL
+
+- **Evidence Brief (Quarto)** — parameterized inputs → analysis → HTML  
+  **Live:** https://kousha1234.github.io/quarto-evidence-brief/brief.html · **Repo:** https://github.com/kousha1234/quarto-evidence-brief
 
 - **RoB 2 Toolkit** — Excel workbook + extraction sheet + rationale notes  
   **Get:** https://github.com/kousha1234/rob2-toolkit/tree/main/templates
