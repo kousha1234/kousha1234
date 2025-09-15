@@ -11,6 +11,6 @@ Current focus: systematic reviews/meta-analysis (incl. RoB 2), R-based analysis,
 - Checklists and notebooks for systematic reviews
 - Small, documented examples that others can run end-to-end
 
-
+Open to RWE/HEOR Analyst or Clinical Evidence roles (DE/remote)
 **### Contact
 [Email](mailto:koushasarpari@gmail.com) · [LinkedIn](https://linkedin.com/in/koushasarpari)** ·  [Portfolio](https://kousha1234.github.io/Research-portfolio/)
