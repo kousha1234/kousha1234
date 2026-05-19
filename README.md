@@ -11,9 +11,9 @@
   **Read:** https://kousha1234.github.io/Research-portfolio/meta_analysis.html · **Code:** https://github.com/kousha1234/r-meta-template
 
 - ** PCS vs BMI (WHO categories)** — Fisher’s exact + logistic  
-  **Read:** https://kousha1234.github.io/Research-portfolio/DEFEAT-BMI-categorised/index.html 
+  
 - ** BMI (continuous) vs PROMs** — correlations + visuals  
-  **Read:** https://kousha1234.github.io/Research-portfolio/DEFEAT-BMI-continuous/index.html 
+ 
 - **Evidence Brief (Quarto)** — parameterized inputs → analysis → HTML  
   **Live:** https://kousha1234.github.io/quarto-evidence-brief/brief.html · **Repo:** https://github.com/kousha1234/quarto-evidence-brief
 
