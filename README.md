@@ -1,7 +1,7 @@
 <h1 align="center">Kousha — Dentist · Epidemiologist</h1>
 
 **Dentistry × Epidemiology × Evidence Synthesis · R**  
-**Open to:** RWE/HEOR Analyst or Clinical Evidence roles (Germany/remote) — **Start:** May 2026
+
 
 - **Now:** PCS-Journey systematic review & meta-analysis (UMG Göttingen)  
 - **Skills:** R (tidyverse, metafor, ggplot2), GLM/logistic, PRISMA/Cochrane, RoB 2, GRADE
